@@ -17,8 +17,8 @@ scikit_learn
 tslearn
 gym
 gymnasium
-ray[rllib]==1.13.0
-tensorflow==2.11.0
+ray[rllib]
+tensorflow
 packaging
 kaleido==0.1.0
 h5py

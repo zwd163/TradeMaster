@@ -10,7 +10,8 @@ from trademaster.utils import get_attr, print_metrics
 import pandas as pd
 from ..custom import Environments
 from ..builder import ENVIRONMENTS
-from gym import spaces
+#import gymnasium as gym
+from gymnasium import spaces
 from collections import OrderedDict
 import pickle
 import os.path as osp

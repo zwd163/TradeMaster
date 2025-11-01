@@ -26,3 +26,8 @@ from .utils import plot
 from .utils import plot_metric_against_baseline
 from .utils import plot_log_trading_decision_on_market
 from .market_dynamics_modeling_analysis import *
+
+# ...existing code...
+# Ensure Registry is defined and exported here
+from .registry import Registry  # Adjust the import if Registry is in a different file
+# ...existing code...
